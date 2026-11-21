@@ -22,16 +22,16 @@ Atmora follows new Material You design guidelines, for example adapting to the a
 
 ## Screenshots
 Taken in Android 17 emulator in Android Studio
-<p align="center">
-  <img width="216" height="480" alt="Overview" src="https://github.com/user-attachments/assets/52250d4a-51b2-4966-b990-b742f3527292" />
+<p align="left">
+  <img width="30%" alt="Overview" src="https://github.com/user-attachments/assets/52250d4a-51b2-4966-b990-b742f3527292" />
   &nbsp;&nbsp;
-  <img width="216" height="480" alt="Daily forecast" src="https://github.com/user-attachments/assets/4e182447-783c-4a53-9716-2fbd95b59d05" />
+  <img width="30%" alt="Daily forecast" src="https://github.com/user-attachments/assets/4e182447-783c-4a53-9716-2fbd95b59d05" />
   &nbsp;&nbsp;
-  <img width="216" height="480" alt="Hourly forecast" src="https://github.com/user-attachments/assets/5143a088-340d-494d-a742-a35c2169e79d" />
+  <img width="30%" alt="Hourly forecast" src="https://github.com/user-attachments/assets/5143a088-340d-494d-a742-a35c2169e79d" />
   &nbsp;&nbsp;
-  <img width="216" height="480" alt="Locations" src="https://github.com/user-attachments/assets/3e75533d-18ca-42c2-827b-3873231ce5a3" />
+  <img width="30%" alt="Locations" src="https://github.com/user-attachments/assets/3e75533d-18ca-42c2-827b-3873231ce5a3" />
   &nbsp;&nbsp;
-  <img width="216" height="480" alt="Adding a new location" src="https://github.com/user-attachments/assets/b7d7a81d-924b-4bb7-8a1c-8974c956ad60" />
+  <img width="30%" alt="Adding a new location" src="https://github.com/user-attachments/assets/b7d7a81d-924b-4bb7-8a1c-8974c956ad60" />
 </p>
 
 
