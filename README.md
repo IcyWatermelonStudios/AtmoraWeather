@@ -13,12 +13,13 @@ Atmora follows new Material You design guidelines, for example adapting to the a
 - Changing units in settings
 - Adding an Overview widget to your home screen (still buggy)
 ### To-Do
+- Localization
 - Normal search screen
 - Ability to change app color and light/dark theme by the user's choice or local time
 - More widgets
 - View each day in a popup with more details
 - Toast notifications
-- Auto-update
+- Auto-update the app itself
 
 ## Screenshots
 Taken in Android 17 emulator in Android Studio
