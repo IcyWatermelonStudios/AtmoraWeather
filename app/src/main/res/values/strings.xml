@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Atmora Weather</string>
+    <string name="app_name_shortened">Atmora</string>
+    <string name="widget_name">Overview</string>
+    <string name="widget_description">Weather overview with less details for the widget</string>
+    <string name="widget_loading">Loading...</string>
+</resources>
