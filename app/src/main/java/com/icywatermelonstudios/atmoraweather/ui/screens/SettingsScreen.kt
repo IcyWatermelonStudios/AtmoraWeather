@@ -14,6 +14,7 @@ import androidx.compose.material3.SingleChoiceSegmentedButtonRow
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.icywatermelonstudios.atmoraweather.data.model.PrecipitationUnit
 import com.icywatermelonstudios.atmoraweather.data.model.TemperatureUnit
@@ -66,6 +67,22 @@ fun SettingsScreen(units: UnitSettings, onUnitsChange: (UnitSettings) -> Unit) {
         // requires attribution
         Text(
             text = "Weather data by https://open-meteo.com",
+            style = MaterialTheme.typography.bodyMedium,
+            color = MaterialTheme.colorScheme.onSurfaceVariant,
+            modifier = Modifier.padding(bottom = 4.dp),
+        )
+        Text(
+            text = "Atmora Weather",
+            style = MaterialTheme.typography.bodyMedium,
+            color = MaterialTheme.colorScheme.onSurfaceVariant,
+        )
+        Text(
+            text = "Version 1.0",
+            style = MaterialTheme.typography.bodySmall,
+            color = MaterialTheme.colorScheme.onSurfaceVariant,
+        )
+        Text(
+            text = "GitHub: https://github.com/IcyWatermelonStudios/AtmoraWeather",
             style = MaterialTheme.typography.bodyMedium,
             color = MaterialTheme.colorScheme.onSurfaceVariant,
         )

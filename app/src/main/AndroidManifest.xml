@@ -16,7 +16,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AtmoraWeather">
         <activity
-            android:name="com.icywatermelonstudios.atmoraweather.MainActivity"
+            android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name_shortened"
             android:theme="@style/Theme.AtmoraWeather"
@@ -26,7 +26,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <!-- Registers the home screen widget with the system -->
+        <activity
+            android:name=".widget.WidgetConfigActivity"
+            android:exported="true"
+            android:label="@string/app_name_shortened"
+            android:theme="@style/Theme.AtmoraWeather">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_CONFIGURE" />
+            </intent-filter>
+        </activity>
         <receiver
             android:name=".widget.WeatherWidgetReceiver"
             android:exported="true"
